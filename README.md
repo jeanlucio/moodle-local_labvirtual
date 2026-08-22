@@ -68,7 +68,7 @@ Moodle core can already create many courses at once (the *Upload courses* admin 
 | Component | Version |
 |-----------|---------|
 | Moodle    | 4.5+    |
-| PHP       | 8.2+    |
+| PHP       | 8.1+    |
 
 Tested against: Moodle 4.5, 5.0, 5.1, 5.2 × PostgreSQL and MariaDB.
 
@@ -282,7 +282,7 @@ O core do Moodle já cria vários cursos de uma vez (a ferramenta *Enviar cursos
 | Componente | Versão |
 |------------|--------|
 | Moodle     | 4.5+   |
-| PHP        | 8.2+   |
+| PHP        | 8.1+   |
 
 Testado contra: Moodle 4.5, 5.0, 5.1, 5.2 × PostgreSQL e MariaDB.
 
